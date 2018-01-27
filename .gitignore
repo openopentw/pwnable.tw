@@ -1,0 +1,8 @@
+# Vim tmp file
+.*.un~
+
+# peda tmp file
+peda-session-*.txt
+
+# gdb tmp file
+.gdb_history
