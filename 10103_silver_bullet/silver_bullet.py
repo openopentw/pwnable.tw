@@ -3,8 +3,6 @@ from time import sleep
 
 context.arch = 'i386'
 
-host = '127.0.0.1'
-port = 8888
 host = 'chall.pwnable.tw'
 port = 10103
 r = remote(host, port)
